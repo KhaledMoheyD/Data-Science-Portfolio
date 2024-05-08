@@ -1,2 +1,3 @@
-# Data-Science-Portfolio
-This is my Data Science portfolio, it includes all of my projects in one place to easily navigate them. 
+# Data Science Portfolio
+This is a collection of projects related to DataScience, Machine Learning and AI done for academic and self-learning purposes.
+This is updated on regular basis.
