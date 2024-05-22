@@ -25,6 +25,10 @@ we are exploring the data, cleaning the data, and preprocessing the data.
 also we applied some visualization methods to better understand the data
 we used Random Forest Classifier in this project
 
+### Time Series Analysis:
+
+### Web Scrapping:
+
 ## Core Competencies
 
 **Methodologies:**  Machine Learning, Advanced Statistics, Exploratory Data Analysis, Data Preprocessing,
