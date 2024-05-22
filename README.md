@@ -26,6 +26,7 @@ also we applied some visualization methods to better understand the data
 we used Random Forest Classifier in this project
 
 ### Time Series Analysis:
+- [Time Series Analysis on Imstagram Reach:](https://github.com/KhaledMoheyD/Time-Series-Analysis-on-Instagram-Reach) This is a practice project on Time Series analysis applied on the reach of an Instagram account using SARIMA model.
 
 ### Web Scrapping:
 
