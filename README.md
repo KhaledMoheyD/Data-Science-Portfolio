@@ -20,7 +20,9 @@ It is updated on regular basis.
 
 ### Machine Learning:
 
-- [Spaceship Titanic - EDA & ML:](https://github.com/KhaledMoheyD/Spaceship-Titanic-EDA-ML) This is a Kaggle competition in which we are predicting which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
+-  [Customer Lifetime Value Prediction - EDA & ML](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction) In this Machine learning project, we are predicting the lifetime value of customers for a business based on their historical interactions using Regression Techniques
+
+-  [Spaceship Titanic - EDA & ML:](https://github.com/KhaledMoheyD/Spaceship-Titanic-EDA-ML) This is a Kaggle competition in which we are predicting which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 we are exploring the data, cleaning the data, and preprocessing the data.
 also we applied some visualization methods to better understand the data
 we used Random Forest Classifier in this project
